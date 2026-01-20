@@ -1,2 +1,17 @@
-# Java compiled files
 *.class
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Build folders
+bin/
+out/
+target/
